@@ -41,4 +41,4 @@ MODULE_AUTHOR("Alan Lacerda - alacerda");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Alterar o nome de um processo em execucao");
 MODULE_PARM_DESC(process_id, "PID do processo que terá o nome alterado");
-MODULE_PARM_DESC(nname, "Novo nome (opicional)");
+MODULE_PARM_DESC(nname, "Novo nome (opcional)");
